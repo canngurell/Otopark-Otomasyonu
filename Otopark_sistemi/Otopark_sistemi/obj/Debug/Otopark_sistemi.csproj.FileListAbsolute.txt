@@ -1,0 +1,142 @@
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cangu\source\repos\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Yedek\02.04.2022 yeni yedek\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cangu\Desktop\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Yedek - Kopya\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cayla\OneDrive\Masaüstü\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmSatis.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe.config
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Otopark_sistemi.pdb
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.AssemblyReference.cache
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Anasayfafrm.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkCıkısı.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkKaydı.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.FrmAdminGiris.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmAracOtoparkYerleri.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.frmSatis.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Properties.Resources.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.Yenikullanicifrm.resources
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.GenerateResource.cache
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.csproj.CopyComplete
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.exe
+C:\Users\cangu\Desktop\11.04.2022 Satış sayfalı Tasarımlı\Otopark\Otopark_sistemi\Otopark_sistemi\obj\Debug\Otopark_sistemi.pdb
